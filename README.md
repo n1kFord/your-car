@@ -3,7 +3,7 @@
 
 ### About:
 
-This is an educational project, it's a car renting and selling website.
+This is an educational project, it's a landing of car renting and selling website.
 
 The project has a working `Docker` and is launched via `docker-compose`
 
